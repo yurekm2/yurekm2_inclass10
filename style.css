@@ -19,7 +19,7 @@ header {
   padding: 20px 50px;
   background-color: maroon;
   color: white;
-  font-size: 14px;
+  font-size: 18px;
   font-family: garamond, serif;
   font-style: italic;
   text-transform: uppercase;
@@ -45,7 +45,6 @@ main {
 .upper {
   width: 700px;
   height: auto;
-  border: 5px;
   border-radius: 25px;
   background-color: white;
   margin: 25px 50px;
