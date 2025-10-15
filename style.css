@@ -66,12 +66,12 @@ main {
 
 .hero figcaption {
   color: black;
-  align: center;
+  text-align: center;
 }
 
 .quote {
   font-style: italic;
-  align: center;
+  text-align: center;
 }
 
 .lower {
