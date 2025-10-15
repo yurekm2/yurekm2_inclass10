@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  display: inline
+  position: fixed
+  background color: darkred;
+  color: white
+  font-size: 14px;
+  font-family: garamond, serif;
+  font-style: italic;
+}
