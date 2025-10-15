@@ -28,3 +28,14 @@ nav a:link {
   color: white;
 }
   
+nav a:hover {
+  color: crimson;
+}
+
+.head {
+  border: 500px;
+  border-radius: 50px;
+  background-color: white;
+  margin: 25px 50px;
+}
+  
