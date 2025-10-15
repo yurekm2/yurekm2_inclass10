@@ -46,6 +46,17 @@ nav a:hover {
   text-decoration: none;
 }
 
+.sticky {
+  position: sticky;
+  top: 300px;
+}
+
+.image {
+  height: 200px;
+  width: auto;
+  float: right
+}
+
 main {
   position: relative;
   top: 100px;
@@ -98,17 +109,6 @@ main {
 
 .lower p {
   padding: 15px;
-}
-
-.sticky {
-  position: sticky;
-  top: 300px;
-}
-
-.image {
-  height: 200px;
-  width: auto;
-  float: right
 }
 
 footer {
