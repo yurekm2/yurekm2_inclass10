@@ -100,4 +100,6 @@ main {
 
 footer {
   position: relative;
+  top: 100px;
+  margin: 10px 25px;
 }
