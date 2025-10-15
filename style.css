@@ -28,7 +28,8 @@ header {
 }
 
 .name {
-  text-align: left
+  font-weight: 700;
+  text-align: left;
 }
 
 nav a {
@@ -98,6 +99,8 @@ main {
 .lower p {
   padding: 15px;
 }
+
+
 
 footer {
   position: relative;
