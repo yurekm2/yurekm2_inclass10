@@ -47,9 +47,9 @@ nav a:hover {
 
 main {
   position: relative;
-  offset: 50px;
+  offset: 500px;
   max-width: 1000px;
-  margin: 15px;
+
 }
 
 .upper {
