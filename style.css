@@ -24,6 +24,11 @@ header {
   font-style: italic;
   text-transform: uppercase;
   z-index: 10;
+  text-align: right;
+}
+
+.name {
+  text-align: left
 }
 
 nav a:link {
@@ -48,7 +53,7 @@ main {
   height: auto;
   border-radius: 25px;
   background-color: white;
-  margin: 25px 50px;
+  margin: 0px 50px;
 }
   
 .upper h1 {
