@@ -39,8 +39,8 @@ nav a:hover {
 }
 
 .head {
-  width: 500px;
-  height: 700px:
+  width: 700px;
+  height: auto;
   border: 5px;
   border-radius: 25px;
   background-color: white;
@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .body {
-  width: 1000px;
+  width: 900px;
   height: auto;
   border-radius: 25px;
   background-color: white;
