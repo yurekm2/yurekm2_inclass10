@@ -58,14 +58,13 @@ main {
   margin: 15px;
 }
 
-.upper img {
+.hero img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
   border-radius: 10px;
 }
 
-.upper figcaption {
+.hero figcaption {
   color: black;
   align: center;
 }
