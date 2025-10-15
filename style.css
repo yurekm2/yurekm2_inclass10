@@ -37,7 +37,7 @@ nav a:hover {
   border-style: solid;
   border-color: black;
   background-color: white;
-  margin: 200px 50px;
+  margin: 25px 50px;
 }
   
 .head h1 {
@@ -45,4 +45,8 @@ nav a:hover {
   font-weight: 800;
   letter-spacing: 2px;
   margin: 15px;
+}
+
+.head img {
+  size: 100%;
 }
