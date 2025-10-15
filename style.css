@@ -13,6 +13,8 @@ html {
 
 header {
   width: 100%;
+  border: 100px;
+  padding: 15px;
   display: inline
   position: fixed
   margin: 20px 10px;
