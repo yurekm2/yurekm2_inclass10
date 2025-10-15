@@ -58,8 +58,9 @@ nav a:hover {
   height: auto;
   border-radius: 25px;
   background-color: white;
+  margin: 25px 50px;
 }
 
-p {
+.body p {
   padding: 15px:
 }
