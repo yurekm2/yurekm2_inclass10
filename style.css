@@ -34,8 +34,15 @@ nav a:hover {
 
 .head {
   border: 500px;
-  border-radius: 50px;
+  border-radius: 25px;
+  border-style: solid
+  border-color: black;
   background-color: white;
   margin: 25px 50px;
 }
   
+.head h1 {
+  align: center;
+  font-weight: 800
+  letter-spacing: 2px;
+}
