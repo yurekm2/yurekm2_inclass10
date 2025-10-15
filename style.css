@@ -100,7 +100,14 @@ main {
   padding: 15px;
 }
 
+.sticky {
+  position: sticky;
+  top: 300px;
+}
 
+.image {
+  float: right
+}
 
 footer {
   position: relative;
