@@ -12,6 +12,10 @@ html {
   line-height: 1.25;
 }
 
+a {
+  text-decoration: none;
+}
+
 header {
   width: 100%;
   display: inline;
