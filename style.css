@@ -97,3 +97,7 @@ main {
 .lower p {
   padding: 15px:
 }
+
+footer {
+  position: relative;
+}
