@@ -12,17 +12,7 @@ html {
 }
 
 header {
-  display: inline
-  position: fixed
-  margin: 20px 10px;
-  background color: maroon;
-  color: white
-  font-size: 14px;
-  font-family: garamond, serif;
-  font-style: italic;
-}
-
-nav {
+  width: 100%;
   display: inline
   position: fixed
   margin: 20px 10px;
