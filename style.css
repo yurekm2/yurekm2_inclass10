@@ -12,10 +12,6 @@ html {
   line-height: 1.25;
 }
 
-a {
-  text-decoration: none;
-}
-
 header {
   width: 100%;
   display: inline;
@@ -26,7 +22,6 @@ header {
   font-size: 14px;
   font-family: garamond, serif;
   font-style: italic;
-  text-decoration: none;
   text-transform: uppercase;
 }
 
@@ -36,6 +31,7 @@ nav a:link {
   
 nav a:hover {
   color: crimson;
+  text-decoration: none;
 }
 
 .upper {
