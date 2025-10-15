@@ -12,8 +12,7 @@ html {
 }
 
 header {
-  border: 5px;
-  padding: 10px 25px;
+  width: 100%
   display: inline;
   position: fixed;
   padding: 20px 10px;
