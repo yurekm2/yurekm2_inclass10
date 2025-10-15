@@ -6,9 +6,10 @@
 
 html {
   background-color: darkgray;
-  font-family: garamond, serif;
+  font-family: verdana, sans-serif;
   font-size: 16px;
   color: maroon;
+  line-height: 1.25;
 }
 
 header {
@@ -21,6 +22,7 @@ header {
   font-size: 14px;
   font-family: garamond, serif;
   font-style: italic;
+  text-transform: uppercase;
 }
 
 nav a:link {
