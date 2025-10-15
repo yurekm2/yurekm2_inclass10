@@ -23,6 +23,7 @@ header {
   font-family: garamond, serif;
   font-style: italic;
   text-transform: uppercase;
+  z-index: 10;
 }
 
 nav a:link {
